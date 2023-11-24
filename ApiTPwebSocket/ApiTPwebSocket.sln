@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTPwebSocket", "ApiTPwebSocket\ApiTPwebSocket.csproj", "{E0DD8B8B-204A-48EC-8EB7-D7AC9B3F8237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0DD8B8B-204A-48EC-8EB7-D7AC9B3F8237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DD8B8B-204A-48EC-8EB7-D7AC9B3F8237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DD8B8B-204A-48EC-8EB7-D7AC9B3F8237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DD8B8B-204A-48EC-8EB7-D7AC9B3F8237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C4D6C2-768E-4C64-8648-36BED1E42830}
+	EndGlobalSection
+EndGlobal
