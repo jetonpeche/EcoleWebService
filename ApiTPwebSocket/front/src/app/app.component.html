@@ -1,0 +1,9 @@
+<canvas #canvas (click)="AjouterPixel($event)" width="600" height="600" style="border: 1px black solid;"></canvas>
+
+<div>
+  <ul>
+    <li *ngFor="let element of listeMessage">{{ element }}</li>
+  </ul>
+
+  <input #inputRef type="text" (keyup.enter)="AjouterMessage(inputRef.value)">
+</div>
